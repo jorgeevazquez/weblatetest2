@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">weblatetest2</string>
+    <string name="app_test">test para weblate</string>
 </resources>
